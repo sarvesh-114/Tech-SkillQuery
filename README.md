@@ -69,7 +69,7 @@ To empower students, job seekers, and professionals with **actionable insights**
 ## 📥 How to Use
 
 1. Open the `.pbix` file in Power BI Desktop
-2. Use slicers to filter roles or job title
+2. Use slicers to filter roles or Country
 3. Explore visual insights by category
 
 ---
