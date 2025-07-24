@@ -74,7 +74,4 @@ To empower students, job seekers, and professionals with **actionable insights**
 
 ---
 
-## 🔗 Connect With Me
-
-If you found this useful or want to collaborate, feel free to reach out on [LinkedIn](#) or drop a ⭐ on this repo!
 
